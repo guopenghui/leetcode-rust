@@ -24,6 +24,8 @@ pub mod q_0012;
 pub mod q_0014;
 #[path="problems/19.删除链表的倒数第-n-个结点.rs"]
 pub mod q_0019;
+#[path="problems/72.编辑距离.rs"]
+pub mod q_0072;
 #[path="problems/87.扰乱字符串.rs"]
 pub mod q_0087;
 #[path="problems/101.对称二叉树.rs"]
@@ -38,5 +40,7 @@ pub mod q_0120;
 pub mod q_0125;
 #[path="problems/128.最长连续序列.rs"]
 pub mod q_0128;
+#[path="problems/131.分割回文串.rs"]
+pub mod q_0131;
 #[path="problems/191.位-1-的个数.rs"]
 pub mod q_0191;
